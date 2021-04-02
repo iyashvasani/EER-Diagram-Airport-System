@@ -2,16 +2,18 @@
 
 ## EER stands for **Enhanced Entity Relationship**
 
-### What is an ER diagram?
+### What is an EER diagram?
 
-An Entity Relationship (ER) Diagram is a type of flowchart that illustrates
-how “entities” such as people, objects or concepts relate to each other within
-a system. ER Diagrams are most often used to design or debug relational databases 
-in the fields of software engineering, business information systems, education and 
-research. Also known as ERDs or ER Models, they use a defined set of symbols such as 
-rectangles, diamonds, ovals and connecting lines to depict the interconnectedness of 
-entities, relationships and their attributes. They mirror grammatical structure, with 
-entities as nouns and relationships as verbs.
+**Enhanced entity-relationship (EER)** diagrams are basically an expanded upon version of ER diagrams. EER models are helpful tools for designing databases with high-level models. With their enhanced features, you can plan databases more thoroughly by delving into the properties and constraints with more precision.
+
+An EER diagram provides you with all the elements of an ER diagram while adding:
+
+* Attribute or relationship inheritances
+* Category or union types
+* Specialization and generalization
+* Subclasses and superclasses
+
+Overall, an EER diagram builds off of an ER diagram by including elements that allow for aggregating, generalizing, and specializing.
 
 
 I have **AIRPORT SYSTEM.drawio** created this flie in [Draw.io](https://app.diagrams.net/) 
