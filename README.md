@@ -8,14 +8,20 @@
 
 An EER diagram provides you with all the elements of an ER diagram while adding:
 
-* Attribute or relationship inheritances
-* Category or union types
-* Specialization and generalization
-* Subclasses and superclasses
+> Attribute or relationship inheritances
+
+> Category or union types
+ 
+> Specialization and generalization
+
+> Subclasses and superclasses
 
 Overall, an EER diagram builds off of an ER diagram by including elements that allow for aggregating, generalizing, and specializing.
+
 
 
 I have **AIRPORT SYSTEM.drawio** created this flie in [Draw.io](https://app.diagrams.net/) 
 
 Draw.io is a Online Diagram Software and Flowchat Maker.
+
+@iyashvasani
