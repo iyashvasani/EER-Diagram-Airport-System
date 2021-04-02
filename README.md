@@ -1,4 +1,4 @@
-# ERR-Diagram-Airport-System-
+# EER-Diagram-Airport-System-
 
 ## EER stands for **Enhanced Entity Relationship**
 
